@@ -53,3 +53,11 @@ To set up a new Vite project with React, follow these steps:
    ```
 
 This will start the development server and open your new React application in the browser with Vite's fast development features.
+
+## 🎥 **Learn More**
+
+For a visual guide on learning React with Vite, check out this helpful video:
+
+[![Watch the video](https://img.youtube.com/vi/CgkZ7MvWUAA/hqdefault.jpg)](https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=1274s)
+
+
